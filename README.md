@@ -23,23 +23,27 @@ A chat app designed in **Figma** and built as a **clickable prototype**.
 
 **Home**
 
-![Home](home.png)
+![Home](Home.png)
 
 **Chat**
 
-![Chat](chat.png)
+![Chat](Chat.png)
 
 **Feed (posting pictures)**
 
-![Feed](feed.png)
+![Feed](Feed.png)
 
 **Call**
 
-![Call](call.png)
+![Call](Call.png)
 
 **Add friends**
 
-![Add friends](add-friends.png)
+![Add friends](Add%20friends.png)
+
+**Profile**
+
+![Profile](Profile.png)
 
 ---
 
